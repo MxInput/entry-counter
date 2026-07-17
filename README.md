@@ -2,7 +2,7 @@
 
 
 
-
+![Entry Counter](screenshot.png)
 
 
 > Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~1.7 hours of work.
@@ -11,7 +11,7 @@
 
 ## What It Does
 
-A device that uses the motion sensor to count when a person enters and sounds of a buzzer to greet them.
+A device that uses the motion sensor to count when a person enters and sounds of a buzzer to greet them. (In the program, I experienced an error where the buttons would sometimes act like toggle switches instead of buttons. I don't think the issue was with the code or my wiring though)
 
 
 ## How It Works
